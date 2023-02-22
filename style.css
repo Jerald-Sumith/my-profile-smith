@@ -1,0 +1,105 @@
+.left{
+    margin-top: -8px;
+    margin-left: -8px;
+    height: 625px;
+    width:20%;
+    background-color: pink;
+}
+#im1{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+#name{
+    margin-left: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+p#cen{
+
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 33px;
+    margin-top: -45px;
+    font-size: 14px;
+}
+.cont{
+    height: 615;
+    width: 80%;
+    position: relative;
+    float: right;
+    margin-top: -615px;
+}
+body{
+    background-image: url('Imges/IMG_3277.png');
+    background-repeat: no-repeat;
+    background-size: 80% 625px;
+    background-attachment: fixed;
+    background-position-x: 99% ;
+}
+p#main{
+    color: red;
+    margin-left: 100px;
+    margin-top: 200px;
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul#link{
+    list-style: none;
+}
+li{
+    margin-top: 15px;
+    margin-left: -35px;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+pre{
+    margin-top: 60px;
+    margin-left: 20px;
+    
+}
+ul#skill{
+    margin-left:50px;
+}
+h1#skill{
+    margin-left:50px;
+}
+pre#ab{
+    font-size: 16px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.c{
+    margin-top: -30px;
+}
+#ed{
+    color: red;
+    margin-top: -12px;
+}
+h3{
+    margin-top: -1px;
+}
+a#link{
+    color:blue;
+}
+h3#skill{
+    margin-left: 50px;
+}
+h1#col{
+    color:red;
+    margin-left: 50px;
+}
+h1#edcol{
+    color: red;
+    margin-left: 50px;
+    margin-top: -10px;
+}
+h1#skillh{
+    color: red;
+    margin-left: 50px; 
+}
+img#al{
+    margin-top: 20px;
+}
+span{
+    font-size: 20px;
+}}
